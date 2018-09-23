@@ -14,7 +14,7 @@ namespace PatternAppStrategy
             calculador.RealizaCalculoDoImposto(orcamento, new ICMS());
             calculador.RealizaCalculoDoImposto(orcamento, new ICCC());
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
